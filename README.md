@@ -1,7 +1,11 @@
 # Java8 Spark + TaasPrototype
 Java8 Spark and TaaS Protoype
 
-API:
+# Run As:
+java -jar TaaSPrototype.jar
+
+
+# API:
 
 http://localhost:8443/api/vm/start/<Mac Address>
 
