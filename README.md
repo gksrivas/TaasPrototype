@@ -1,4 +1,4 @@
-# TaasPrototype
+# Java8 Spark + TaasPrototype
 Java8 Spark and TaaS Protoype
 
 API:
